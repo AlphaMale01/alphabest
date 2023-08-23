@@ -5,3 +5,4 @@ soccer
 basketball
 rugby
 race
+rally
