@@ -1,0 +1,6 @@
+list of sports
+swimming
+volley ball
+soccer
+basketball
+rugby
